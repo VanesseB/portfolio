@@ -51,25 +51,17 @@ a:hover{
     color: orange;
 }
 
-.introduction{
-    /*margin-left: 300px;*/
+.introduction {
     width: 50%; /*moving text to the center*/
     margin: auto;
-    /*padding-bottom: 50px;*/
-    /*letter-spacing: 1px;*/
     font-size: 16px;
-    /*line-height: 1.6;*/
-
 }
 
 hr{
     border: dotted white 5px;
     border-bottom: none;
-    /*border-color: white;
-    border-width: 5px;*/
     width: 10%;
     margin: 100px auto;
-    /*padding-bottom: 30px;*/
   }
 
 .skill-row{
@@ -79,12 +71,9 @@ hr{
 }
 
 .top-container{
-    /*background-color: #00badb;*/
-    /*background-color: #000026; */
     background: url(https://source.unsplash.com/dMSVp7QLl_A/1600x900);
     background-size: cover;
     height: 500px;
-    /*background-image: linear-gradient(to right top, #4dc9e6, #00a5e7, #007ee4, #0052d4, #210cae); */
     padding: 10px;
 }
 
@@ -95,20 +84,17 @@ hr{
   }
 
 .middle-container{
-    /*padding-top: 50px;*/
     margin: 100px 0;
     
 }
 
 .bottom-container{
-    /*background-color: #021056;*/
     background-image: linear-gradient(to right top, #4dc9e6, #00a5e7, #007ee4, #0052d4, #210cae);
     padding: 50px 0 20px; /*top left+right bottom*/
     
 }
 
 .copyright{
-    /*word-spacing: normal;*/
     font-weight: normal;
     font-size: 0.8em;
     color: #ffffff;
